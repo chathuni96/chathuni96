@@ -2,6 +2,7 @@
 
 
   🔭 I’m currently working on small to medium scale front-end development software projects
+  
   🌱 I’m currently learning new technologies.
 
   📫 Reach me: chathuni.imasha96@gmail.com
