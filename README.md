@@ -1,5 +1,11 @@
 ### Hi Everyone 👋
 
+
+  🔭 I’m currently working on small to medium scale front-end development software projects
+  🌱 I’m currently learning new technologies.
+
+  📫 Reach me: chathuni.imasha96@gmail.com
+
 <!--
 **chathuni96/chathuni96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
